@@ -20,5 +20,3 @@ table.record_result('Chris', 5)
 print(table.player_rank(1))
 
 All players have the same score. However, Arnold and Chris have played fewer games than Mike, and as Chris is before Arnold in the list of players, he is ranked first. Therefore, the code above should display "Chris".
-
-continuation line missing indentation or outdented
